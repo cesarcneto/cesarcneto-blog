@@ -1,7 +1,7 @@
 {:site-title                   "My Awesome Blog"
  :author                       "Cesar Caetano Neto"
  :description                  "This blog is awesome"
- :site-url                     "https://cesarcneto.github.io"
+ :site-url                     "https://cesarcneto.github.io/"
  :post-root                    "posts"
  :page-root                    "pages"
  :post-root-uri                "posts-output"
@@ -17,7 +17,7 @@
  :archive-group-format         "yyyy MMMM"
  :sass-src                     []
  :sass-path                    "sass"
- :theme                        "lotus"
+ :theme                        "blue"
  :resources                    ["img"]
  :keep-files                   [".git"]
  :disqus?                      false
