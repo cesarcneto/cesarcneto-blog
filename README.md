@@ -13,7 +13,7 @@ jbake -b -s
 .... edit your site to get new web version ....
 ... and push changes to both repos ....
 git add . && git commit -am "WIP" && git push
-cd public &&  git add . && git commit -am "WIP" && git push && cd ../
+cd output &&  git add . && git commit -am "WIP" && git push && cd ../
 
 ```
 

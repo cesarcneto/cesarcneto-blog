@@ -1,8 +1,7 @@
 title=How I manage my career
 date=2022-01-25
 type=post
-tags=blog
-categories=cat1, cat2
+tags=career
 status=draft
 author=Cesar Caetano Neto
 description=This is a description of the "How I manage my career" post.
